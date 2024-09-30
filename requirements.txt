@@ -1,0 +1,13 @@
+tensorboardx
+pyyaml
+yacs
+einops
+SimpleITK
+monai
+pandas
+numpy
+matplotlib
+torchio
+medpy
+h5py
+scikit-image
