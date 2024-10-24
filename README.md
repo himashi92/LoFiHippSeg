@@ -1,8 +1,13 @@
 # LoFiHippSeg: Bilateral Hippocampi Segmentation in Low Field MRIs Using Mutual Feature Learning via Dual-Views
 
+First runner-up entry for segmentation Task in Low field pediatric brain magnetic resonance Image Segmentation and quality Assurance - LISA Challenge 2024. [Link to Challenge](https://www.synapse.org/Synapse:syn55249552/wiki/)
+
 ## Abstract
 Accurate hippocampus segmentation in brain MRI is critical for studying cognitive and memory functions and diagnosing neurodevelopmental disorders. While high-field MRIs provide detailed imaging, low-field MRIs are more accessible and cost-effective, which eliminates the need for sedation in children, though they often suffer from lower image quality. In this paper, we present a novel deep-learning approach for the automatic segmentation of bilateral hippocampi in low-field MRIs. Extending recent advancements in infant brain segmentation to underserved communities through the use of low-field MRIs ensures broader access to essential diagnostic tools, thereby supporting better healthcare outcomes for all children. 
 Inspired by our previous work, Co-BioNet, the proposed model employs a dual-view structure to enable mutual feature learning via high-frequency masking, enhancing segmentation accuracy by leveraging complementary information from different perspectives. Extensive experiments demonstrate that our method provides reliable segmentation outcomes for hippocampal analysis in low-resource settings. 
+
+## Link to full paper:
+Published in Nature Machine Intelligence : [Link](http://arxiv.org/abs/2410.17502)
 
 ## System requirements
 Under this section, we provide details on the environmental setup and dependencies required to train/test the LoFiHippSeg model.
