@@ -7,7 +7,7 @@ Accurate hippocampus segmentation in brain MRI is critical for studying cognitiv
 Inspired by our previous work, Co-BioNet, the proposed model employs a dual-view structure to enable mutual feature learning via high-frequency masking, enhancing segmentation accuracy by leveraging complementary information from different perspectives. Extensive experiments demonstrate that our method provides reliable segmentation outcomes for hippocampal analysis in low-resource settings. 
 
 ## Link to full paper:
-Published in Nature Machine Intelligence : [Link](http://arxiv.org/abs/2410.17502)
+Paper Link Pre-print : [Link](http://arxiv.org/abs/2410.17502)
 
 ## System requirements
 Under this section, we provide details on the environmental setup and dependencies required to train/test the LoFiHippSeg model.
