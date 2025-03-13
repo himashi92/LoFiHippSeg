@@ -9,6 +9,8 @@ Inspired by our previous work, Co-BioNet, the proposed model employs a dual-view
 ## Link to full paper:
 Paper Link Pre-print : [Link](http://arxiv.org/abs/2410.17502)
 
+News Article : [Link](https://www.radaccess.com/post/10th-edition)
+
 ## System requirements
 Under this section, we provide details on the environmental setup and dependencies required to train/test the LoFiHippSeg model.
 This software was originally designed and run on a system running Ubuntu.
